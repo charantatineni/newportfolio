@@ -92,7 +92,7 @@ DNS Settings:
 Add a CNAME record pointing to yourusername.github.io.
 Add CNAME File:
 
-Create a CNAME file in the repository with the custom domain www.ratnarajivmulpuri.info.
+Create a CNAME file in the repository with the custom domain www.sritatineni.info.
 Contact Form with EmailJS
 EmailJS Setup:
 
